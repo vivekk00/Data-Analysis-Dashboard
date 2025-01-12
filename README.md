@@ -15,4 +15,4 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction 
+- Dashboard Interaction <a href="https://github.com/vivekk00/Data-Analysis-Dashboard/blob/main/Screenshot%202025-01-11%20200454.png">view dashboard<a/>
